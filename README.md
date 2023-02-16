@@ -27,5 +27,5 @@ Log-in form along with a similar register form.<br></br>
 This is the new campground form with all necessary validations on both the client side and server side.<br></br>
 
 # Notes
-Feel free to fork the website and add additional features like a map. just cd into the directory, then type npm install, then nodemon app.js to view the website on localhost.
+Feel free to fork the website and add additional features like a map. just cd into the directory, then type npm install, then nodemon app.js to view the website on localhost.Note that you need to have node.js installed alongg with MongoDB
 
