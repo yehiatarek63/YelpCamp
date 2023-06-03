@@ -16,7 +16,7 @@ This is the page where you can view all the campgrounds in the website and a but
 
 # Detailed Campground
 ![Detailed Campground](https://user-images.githubusercontent.com/94568731/219414495-1ed5ba0d-bf0f-44d2-9aa4-8c58d8c79ce6.JPG)<br></br>
-This is the where you can view information about a campground like a picture, prices, location and you can leave a star review along with a comment. Note that only ahe author of a campground can edit or delete the campground.<br></br>
+This is the where you can view information about a campground like a picture, prices, location and you can leave a star review along with a comment. Note that only the author of a campground can edit or delete the campground.<br></br>
 
 # Log-In
 ![Login](https://user-images.githubusercontent.com/94568731/219414503-4f11f58b-58dc-4a8c-9aaa-18950fd55d9c.JPG)<br></br>
